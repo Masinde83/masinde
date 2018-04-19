@@ -1,0 +1,2 @@
+# masinde
+lets learn coding
